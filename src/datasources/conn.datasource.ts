@@ -5,10 +5,10 @@ const config = {
   name: 'conn',
   connector: 'mongodb',
   url: 'mongodb+srv://duv:1CIDxJIHq8Tewvat@cluster0.jqqqs8e.mongodb.net/vacaciones',
-  host: '27017',
+  host: 'cluster0.jqqqs8e.mongodb.net',
   port: 27017,
   user: 'duv',
-  password: '1CIDxJIHq8Tewvat v1CI',
+  password: '1CIDxJIHq8Tewvat',
   database: 'vacaciones',
   useNewUrlParser: true
 };
